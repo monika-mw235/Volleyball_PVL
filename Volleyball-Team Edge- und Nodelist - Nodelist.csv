@@ -1,0 +1,65 @@
+id,name,birth,type,age,position,country
+lohuis,Juliet Lohuis,1996,0,3,1,Niederlande
+todorova,Mira Todorova,1994,0,3,1,Bulgarien
+timmerman,Eline Timmerman,1998,0,2,1,Niederlande
+kohn,Hannah Kohn,2003,0,1,2,Deutschland
+vyver,Ilka van de Vyver,1993,0,4,2,Belgien
+nowicka,Julia Nowicka,1998,0,2,2,Polen
+lee,Simone Lee,1996,0,3,3,USA
+palleres,Maria Segura Palleres,1992,0,4,3,Spanien
+jasper,Hester Jasper,2001,0,2,3,Niederlande
+dornheim,Helena Dornheim,2004,0,1,3,Deutschland
+rivers,Krystal Rivers,1994,0,4,4,USA
+berger,Lara Berger,2001,0,2,4,Deutschland
+koskelo,Roosa Koskelo,1991,0,4,5,Finnland
+grundt,Lena Grundt,2004,0,1,5,Deutschland
+niederlande,Niederlande,,1,,,
+bulgarien,Bulgarien ,,1,,,
+deutschland,Deutschland,,1,,,
+belgien ,Belgien,,1,,,
+usa,USA,,1,,,
+spanien,Spanien,,1,,,
+polen,Polen,,1,,,
+finnland,Finnland,,1,,,
+setup ,Set-up 65,,1,,,
+papendal,Talent Team Papendal,,1,,,
+almelo,Eurosped Almelo,,1,,,
+alterno,Coolen Alterno,,1,,,
+münster,USC Münster,,1,,,
+cannes,RC Cannes,,1,,,
+cannet,Volero Le Cannet,,1,,,
+zürich,Volero Zürich,,1,,,
+pfeffingen,Smaesch Pfeffingen,,1,,,
+maritza,VC Martiza,,1,,,
+apeldoorn,Alterno Apeldoorn,,1,,,
+twente,Eurosped Twente,,1,,,
+aachen,Ladies in Black Aachen,,1,,,
+ulm,VfB Ulm,,1,,,
+os,Olympiastützpunkt Stuttgart,,1,,,
+bs,Bundesstützpunkt Stuttgart,,1,,,
+kieldrecht,Asterix Kieldrecht,,1,,,
+firenze,Il Bisonte Firenze,,1,,,
+ljublijana,Calcit Ljublijana,,1,,,
+vilsbiburg,Rote Raben Vilsbiburg,,1,,,
+szcyrk,SMS PZPS Szcyrk,,1,,,
+aquafairies,Kurobe Aquafairies,,1,,,
+beylikdüzü,Beylikdüzü,,1,,,
+conegliano,Conegliano,,1,,,
+penn,Penn State,,1,,,
+brescia,Brescia,,1,,,
+dresden,Dresdner Sc,,1,,,
+monza,Monza,,1,,,
+barcelona,CV Barcelona,,1,,,
+thüringen,Thüringen,,1,,,
+sneek,VC Sneek,,1,,,
+stuttgart,Allianz Stuttgart,,1,,,
+alabama,Alabama,,1,,,
+angels,Beziers Angels,,1,,,
+bar,Luka Bar,,1,,,
+tübingen,Tübinger Modell,,1,,,
+berlin,VCO Berlin,,1,,,
+branik,Branik,,1,,,
+viesti,Viesti,,1,,,
+kimmo,Kimmo,,1,,,
+pallo,Pallo,,1,,,
+mtv,MTV Stuttgart,,1,,,
