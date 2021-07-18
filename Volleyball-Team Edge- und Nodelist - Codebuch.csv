@@ -1,0 +1,16 @@
+CODEBUCH,
+"Im Codebuch definieren Sie, wie und nach welchen Kriterien erfasst werden.",
+Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.,
+Wert,Kommentar
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from,"definiert den Sender. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to ,"definiert den Empfänger. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. "
+erelation,beschreibt die Art der Beziehung. 1: Spielerin zu Heimatland; 2: Spielerin zu Verein
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  "
+name,Name oder Bezeichnung des Knotens. 
+birth,gibt das Geburtsjahr an
+age,gibt das Alter der Spielerin an. 1: unter 20; 2: 21-23; 3: 24-26; 4: 27-30
+type,"definiert, um welche Art von Knoten es sich handelt; 0 = Person, 2 = Organisation (Verein oder Heimatland)"
+country,gibt das Heimatland der Spielerin an
+position,gibt die Position der Spielerin an. 1: Mittelblock; 2:Zuspiel; 3:Außenangriff; 4: Diagonal; 5: Libero
